@@ -30,7 +30,7 @@ Output files will be saved in the corresponding folders inside [output](output/)
 Note: To visualize intermediate results for each processing step (e.g., semantic masks, depth maps, layered RGBA images), run the scripts located in the respective folders: [2D to 3D](2d_to_3d/) and [Parallax Scrolling](parallax_crolling/).
 
 ## Results and Ablation Study
-All demonstration videos can be found in the following directory: [Demo](demo/).
+All demonstration videos can be found in the following directory: [Parallax Scrolling Demo](https://github.com/user-attachments/assets/bdfd11a0-c896-495d-818e-fa27c1df817f).
 All ablation study videos are available in: [Ablation Study](ablation_study/).
 
 ## Report
