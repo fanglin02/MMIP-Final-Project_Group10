@@ -8,8 +8,7 @@ This project implements a depth-based multimodal image layering system that gene
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/fanglin02/Multi-Modality-Image-Processing
-cd cd your-repo
+git clone https://github.com/fanglin02/MMIP-Final-Project_Group10.git
 ```
 2. Install dependencies:
 ```bash
@@ -27,6 +26,8 @@ python 2dto3d.py
 python parallax_scrolling.py
 ```
 Output files will be saved in the corresponding folders inside [output](output/).
+
+Note: To visualize intermediate results for each processing step (e.g., semantic masks, depth maps, layered RGBA images), run the scripts located in the respective folders: [2D to 3D](2d_to_3d/) and [Parallax Scrolling](parallax_crolling/).
 
 ## Results and Ablation Study
 All demonstration videos can be found in the following directory: [Demo](demo/).
